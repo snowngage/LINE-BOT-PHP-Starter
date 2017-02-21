@@ -1,5 +1,5 @@
-$proxy = 'proxyurl:port';
-$proxyauth = 'username:password';
+$proxy = 'http://velodrome.usefixie.com:80';
+$proxyauth = 'fixie:G119ZGKvGnZWjp9';
 <?php
 $access_token = 'ZIThy7xgsrMjCzmlE7OsePNhvotMpGe/gvICHCZVmtvNnfIOKQ/S99NyWd203VApUYl29rSKLMHXlvIxtkuwJeglpg368abvdOaPMJed42O0y1QXP8DI0bIv/aCWqVGNXVlCGfa0uR2of/urW1yjvgdB04t89/1O/w1cDnyilFU=';
 
